@@ -1,0 +1,594 @@
+[33mcommit 173b97f5af9679a8845db97ac34586b1e00e429d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: s40723115 <40723115gmail.com>
+Date:   Fri Jan 3 10:57:19 2020 +0800
+
+    test-1
+
+[33mcommit ff0b41b193c2676454b2c9a316eeef44853836f2[m
+Author: s40723115 <40723115gmail.com>
+Date:   Fri Dec 27 09:15:16 2019 +0800
+
+    1227
+
+[33mcommit 28dc3e86cab32f10f25a3447fd6bc6f7959c346c[m
+Author: s40723115 <40723115gmail.com>
+Date:   Fri Dec 20 12:04:00 2019 +0800
+
+    W15
+
+[33mcommit 32fd9278311311b9555295c142f483e5e2550664[m
+Author: s40723115 <40723115gmail.com>
+Date:   Fri Dec 20 11:20:26 2019 +0800
+
+    onshape history
+
+[33mcommit ed78811958c17aa6be862a2fb490359d8eb55494[m
+Author: s40723115 <40723115gmail.com>
+Date:   Fri Dec 20 10:51:32 2019 +0800
+
+    AIH-4
+
+[33mcommit 032be45f089fdeb61b9c1a36489b53c131d3aa80[m
+Author: s40723115 <40723115gmail.com>
+Date:   Fri Dec 20 10:29:05 2019 +0800
+
+    aih-3
+
+[33mcommit a6ba2e5570477ee962d665fa8253ef741a682ef0[m
+Author: s40723115 <40723115gmail.com>
+Date:   Fri Dec 20 10:22:59 2019 +0800
+
+    aih-2
+
+[33mcommit 86202949dcbe6b052421545df11526b9f64e081d[m
+Author: s40723115 <40723115gmail.com>
+Date:   Fri Dec 20 09:14:55 2019 +0800
+
+    test
+
+[33mcommit f51ab7ff42f520e3122d44598988f95ee3c42100[m
+Merge: e8f5e5f d9bbab3
+Author: s40723115 <40723115gmail.com>
+Date:   Thu Dec 19 22:38:18 2019 +0800
+
+    add inventor history
+
+[33mcommit e8f5e5fbd1e3f287ee9cf2a5bf0b056acb418545[m
+Author: s40723115 <40723115gmail.com>
+Date:   Thu Dec 19 22:27:20 2019 +0800
+
+    add inventor history
+
+[33mcommit d9bbab3fc9613dfae3821bb1ae661ceda2472b6e[m
+Merge: da0dbcc 9bf0f3a
+Author: s40723115 <43262275+s40723115@users.noreply.github.com>
+Date:   Thu Dec 19 21:30:53 2019 +0800
+
+    Merge pull request #2 from s40723148/master
+    
+    1219merge
+
+[33mcommit 9bf0f3a90ec3c7c81d8af17680e1d617262208c7[m
+Merge: 167d783 728d070
+Author: s40723148 <43262293+s40723148@users.noreply.github.com>
+Date:   Thu Dec 19 19:43:24 2019 +0800
+
+    Merge pull request #28 from s40723110/master
+    
+    NX12 Update
+
+[33mcommit 728d070f70665dc7287c23da5ee64aed74a8d65f[m
+Author: s40723110 <40723110@gm.nfu.edu.tw>
+Date:   Thu Dec 19 18:52:32 2019 +0800
+
+    NX12更新
+
+[33mcommit 1c942976c51f8ff6c5451a171e40c659c5fd808f[m
+Merge: 69e0553 167d783
+Author: s40723110 <43262256+s40723110@users.noreply.github.com>
+Date:   Thu Dec 19 16:55:05 2019 +0800
+
+    Merge pull request #8 from s40723148/master
+    
+    更新
+
+[33mcommit 167d783a21e6cd4015dff16fbed835317f14e78c[m
+Merge: 88a1732 7227325
+Author: s40723148 <43262293+s40723148@users.noreply.github.com>
+Date:   Fri Dec 13 12:16:27 2019 +0800
+
+    Merge pull request #27 from s40723120/master
+    
+    add image2
+
+[33mcommit 7227325d87472808a377dfd2e44c0d89adfc8d43[m
+Merge: 84d8fe5 88a1732
+Author: s40723120 <43262192+s40723120@users.noreply.github.com>
+Date:   Fri Dec 13 12:12:46 2019 +0800
+
+    Merge pull request #1 from s40723148/master
+    
+    Merge pull request #26 from s40723120/master
+
+[33mcommit 84d8fe5938fbadee0e55c31cc4ddd78b89cf2ace[m
+Author: s40723120 <40723120@gm.nfu.edu.tw>
+Date:   Fri Dec 13 12:10:46 2019 +0800
+
+    圖片
+
+[33mcommit 88a17325c721ed19cf05f646392a717e858ba333[m
+Merge: 8bdff2a 31eaa75
+Author: s40723148 <43262293+s40723148@users.noreply.github.com>
+Date:   Fri Dec 13 12:06:07 2019 +0800
+
+    Merge pull request #26 from s40723120/master
+    
+    add image
+
+[33mcommit 31eaa759744aea4096e07c51bdf83b351b695055[m
+Author: s40723120 <40723120@gm.nfu.edu.tw>
+Date:   Fri Dec 13 12:04:37 2019 +0800
+
+    add image
+
+[33mcommit 8bdff2a60ed6ec81c5012d9cb81a6ee39a58d512[m
+Merge: dbde8cd 427b6b2
+Author: s40723115 <43262275+s40723115@users.noreply.github.com>
+Date:   Fri Dec 13 11:39:04 2019 +0800
+
+    Merge pull request #24 from s40723148/revert-23-revert-22-revert-21-master
+    
+    Revert "Revert "Revert "add image"""
+
+[33mcommit 427b6b22d307e18ed9c691ef3f7327b98c81aa9e[m
+Author: s40723115 <43262275+s40723115@users.noreply.github.com>
+Date:   Fri Dec 13 11:38:34 2019 +0800
+
+    Revert "Revert "Revert "add image"""
+
+[33mcommit dbde8cd0c451af5ba345a3cdbd4410c4a7012a9d[m
+Merge: 55f1996 f312cf0
+Author: s40723115 <43262275+s40723115@users.noreply.github.com>
+Date:   Fri Dec 13 11:03:59 2019 +0800
+
+    Merge pull request #23 from s40723148/revert-22-revert-21-master
+    
+    Revert "Revert "add image""
+
+[33mcommit f312cf0a04dba697d9e6d87afbe804048f424585[m
+Author: s40723115 <43262275+s40723115@users.noreply.github.com>
+Date:   Fri Dec 13 11:03:46 2019 +0800
+
+    Revert "Revert "add image""
+
+[33mcommit 55f19969d7743cbb88ede91f34b6c4e7f026d509[m
+Merge: c298f06 501041b
+Author: s40723115 <43262275+s40723115@users.noreply.github.com>
+Date:   Fri Dec 13 10:46:25 2019 +0800
+
+    Merge pull request #22 from s40723148/revert-21-master
+    
+    Revert "add image"
+
+[33mcommit 501041bcf156d20398e84920fa01b669e2bfeeb6[m
+Author: s40723115 <43262275+s40723115@users.noreply.github.com>
+Date:   Fri Dec 13 10:46:07 2019 +0800
+
+    Revert "add image"
+
+[33mcommit c298f0664b26d218b1a9bd9a4f7562d2658bab37[m
+Merge: 1655358 315daa7
+Author: s40723115 <43262275+s40723115@users.noreply.github.com>
+Date:   Fri Dec 13 10:35:09 2019 +0800
+
+    Merge pull request #21 from s40723120/master
+    
+    add image
+
+[33mcommit 315daa7a67461418d1c77dbb9900d206e23b4c06[m
+Author: s40723120 <40723120@gm.nfu.edu.tw>
+Date:   Fri Dec 13 10:32:26 2019 +0800
+
+    add image
+
+[33mcommit 165535846bde9b6f55ea19184ce487558e4ceb68[m
+Merge: cbfc18e 89bc012
+Author: s40723115 <43262275+s40723115@users.noreply.github.com>
+Date:   Fri Dec 13 10:21:35 2019 +0800
+
+    Merge pull request #20 from s40723120/master
+    
+    add inventor
+
+[33mcommit 89bc012e3d08df595fa5777a7c9b520a1e037d29[m
+Author: s40723120 <40723120@gm.nfu.edu.tw>
+Date:   Fri Dec 13 10:19:43 2019 +0800
+
+    inventor
+
+[33mcommit 6426acee36ee24363f5a9e3c0e4d3f34b9ef19d8[m
+Merge: 5c42f43 cbfc18e
+Author: s40723120 <43262192+s40723120@users.noreply.github.com>
+Date:   Fri Dec 13 09:27:01 2019 +0800
+
+    Merge pull request #2 from s40723148/master
+    
+    pull
+
+[33mcommit da0dbcc039493f268b44363f68d39c1b98c1e125[m
+Merge: a55f1f4 cbfc18e
+Author: s40723115 <43262275+s40723115@users.noreply.github.com>
+Date:   Fri Dec 13 09:22:19 2019 +0800
+
+    Merge pull request #1 from s40723148/master
+    
+    1213
+
+[33mcommit cbfc18ed5f17a87de44351f69c38026d9b3cea22[m
+Author: s40723148 <40723148@gm.nfu.edu.tw>
+Date:   Fri Dec 13 03:36:50 2019 +0800
+
+    WebotsTutorial
+
+[33mcommit 3727925beebebba347aa560edf581646d5a79039[m
+Merge: 7bd4c6b 69e0553
+Author: s40723148 <43262293+s40723148@users.noreply.github.com>
+Date:   Thu Dec 12 21:14:19 2019 +0800
+
+    Merge pull request #18 from s40723110/master
+    
+    新增nx12示範影片
+
+[33mcommit 69e05532de8ea81cb649ca30d95bf7256405d102[m
+Author: s40723110 <40723110@gm.nfu.edu.tw>
+Date:   Thu Dec 12 21:12:05 2019 +0800
+
+    新增nx12示範影片
+
+[33mcommit 1a4eab787174b558386dd4c7e6adf91177824c5a[m
+Merge: 3cc83f4 217d6f4
+Author: s40723110 <40723110@gm.nfu.edu.tw>
+Date:   Thu Dec 12 21:06:00 2019 +0800
+
+    151
+
+[33mcommit 3cc83f41492f0615dcaea3c3cb60a42ac202e17d[m
+Author: s40723110 <40723110@gm.nfu.edu.tw>
+Date:   Thu Dec 12 21:04:16 2019 +0800
+
+    123
+
+[33mcommit 217d6f433fa6738a09eca24846b85881e2cad0f4[m
+Merge: 9d872bc 7bd4c6b
+Author: s40723110 <43262256+s40723110@users.noreply.github.com>
+Date:   Thu Dec 12 20:57:05 2019 +0800
+
+    Merge pull request #7 from s40723148/master
+    
+    12122
+
+[33mcommit 7bd4c6b732f111c8715addd6b48a6338a902b13b[m
+Merge: 200f4db f6ed77c
+Author: s40723148 <43262293+s40723148@users.noreply.github.com>
+Date:   Thu Dec 12 17:53:54 2019 +0800
+
+    Merge pull request #17 from s40723112/master
+    
+    新增自走車繪製及網頁版面整理
+
+[33mcommit f6ed77c9e850f81287d77f288ac64cb249b3986e[m
+Author: s40723112 <40723112@gm.nfu.edu.tw>
+Date:   Thu Dec 12 17:30:14 2019 +0800
+
+    新增自走車繪製及網頁版面整理
+
+[33mcommit ceb982dc7906cb1c8e07fcb6b127c95b283fd7a7[m
+Merge: 325bf83 200f4db
+Author: s40723112 <43262247+s40723112@users.noreply.github.com>
+Date:   Thu Dec 12 17:24:36 2019 +0800
+
+    Merge pull request #5 from s40723148/master
+    
+    更新
+
+[33mcommit 9d872bc9b6b08d5f4ebc7764d3fe2463dcad345f[m
+Merge: 1277e2c 200f4db
+Author: s40723110 <43262256+s40723110@users.noreply.github.com>
+Date:   Thu Dec 12 16:55:48 2019 +0800
+
+    Merge pull request #6 from s40723148/master
+    
+    1212
+
+[33mcommit 200f4dbe56ce42f370539d3a4d1e20f5ef6380fa[m
+Merge: c35313f 63e31b5
+Author: s40723115 <43262275+s40723115@users.noreply.github.com>
+Date:   Wed Dec 11 22:22:53 2019 +0800
+
+    Merge pull request #16 from s40723146/master
+    
+    ch8 應力
+
+[33mcommit 63e31b56ac09c86c97ac21d8445732f43b470ec4[m
+Author: s40723146 <40723146@gm.nfu.edu.tw>
+Date:   Wed Dec 11 22:14:13 2019 +0800
+
+    應力分析 CH8
+
+[33mcommit 5115c683f2b1ba30cb15bc307ebccd640a612132[m
+Merge: cc74c97 c35313f
+Author: s40723146 <43262392+s40723146@users.noreply.github.com>
+Date:   Wed Dec 11 20:35:55 2019 +0800
+
+    Merge pull request #4 from s40723148/master
+    
+    12/11
+
+[33mcommit c35313f101f325c9c4d7490fa742a99b8d48fbae[m
+Merge: d6902f4 1277e2c
+Author: s40723115 <43262275+s40723115@users.noreply.github.com>
+Date:   Wed Dec 11 20:32:20 2019 +0800
+
+    Merge pull request #15 from s40723110/master
+    
+    1211
+
+[33mcommit 1277e2c703716be4d23491abdc7d00f81208cfc5[m
+Merge: da40a6d f763131
+Author: s40723110 <40723110@gm.nfu.edu.tw>
+Date:   Wed Dec 11 16:31:35 2019 +0800
+
+    12111
+
+[33mcommit da40a6d0d66d6afe096ebc02641e2c3fe03975d6[m
+Author: s40723110 <40723110@gm.nfu.edu.tw>
+Date:   Wed Dec 11 16:30:06 2019 +0800
+
+    12111
+
+[33mcommit d6902f4e240f31a9523e38fc83fbfafc7e5ac3b7[m
+Author: s40723148 <40723148@gm.nfu.edu.tw>
+Date:   Wed Dec 11 15:03:30 2019 +0800
+
+    blog setting
+
+[33mcommit f763131f9d21f10300ce9fe7312692d183f308bc[m
+Merge: 1b0df77 4fa3ba6
+Author: s40723110 <43262256+s40723110@users.noreply.github.com>
+Date:   Tue Dec 10 19:45:55 2019 +0800
+
+    Merge pull request #5 from s40723148/master
+    
+    1210
+
+[33mcommit 4fa3ba6c1b4faff9803518acece3b2965258bf86[m
+Merge: 9757cd1 a124b43
+Author: s40723148 <43262293+s40723148@users.noreply.github.com>
+Date:   Fri Dec 6 11:58:14 2019 +0800
+
+    Merge pull request #13 from s40723102/master
+    
+    nx history
+
+[33mcommit a124b4332edc2d2f84ce8ce94fa20a7fae38edac[m
+Author: s40723102 <40723102@gm.nfu.edu.tw>
+Date:   Fri Dec 6 11:53:10 2019 +0800
+
+    nx history
+
+[33mcommit 23def0101268b4680786524b4a2ca45ec155508d[m
+Merge: 4e63ce2 0ab3258
+Author: s40723102 <40723102@gm.nfu.edu.tw>
+Date:   Fri Dec 6 11:01:55 2019 +0800
+
+    Merge branch 'master' of https://github.com/s40723102/cad2019ag1
+
+[33mcommit 4e63ce2bb07256be1567e50f989ddd34e684ed9f[m
+Author: s40723102 <40723102@gm.nfu.edu.tw>
+Date:   Fri Dec 6 11:01:28 2019 +0800
+
+    merge
+
+[33mcommit 0ab3258d554275a690e8d0ca83f27a2cc31e3ef0[m
+Merge: de20e16 9757cd1
+Author: s40723102 <43262238+s40723102@users.noreply.github.com>
+Date:   Fri Dec 6 10:58:58 2019 +0800
+
+    Merge pull request #1 from s40723148/master
+    
+    merge
+
+[33mcommit 5c42f43c678ebd8e6963573d172c5d1f2aa38a62[m
+Merge: de20e16 9757cd1
+Author: s40723120 <43262192+s40723120@users.noreply.github.com>
+Date:   Fri Dec 6 10:51:17 2019 +0800
+
+    Merge pull request #1 from s40723148/master
+    
+    6536666
+
+[33mcommit 325bf837950217779dd53d9b261b041f0706b9cd[m
+Merge: ef3ce84 9757cd1
+Author: s40723112 <43262247+s40723112@users.noreply.github.com>
+Date:   Fri Dec 6 09:32:58 2019 +0800
+
+    Merge pull request #4 from s40723148/master
+    
+    同步
+
+[33mcommit 1b0df771db5249bbf189b641b5a0553d83a6d25a[m
+Merge: 817a4d9 9757cd1
+Author: s40723110 <43262256+s40723110@users.noreply.github.com>
+Date:   Fri Dec 6 08:06:28 2019 +0800
+
+    Merge pull request #4 from s40723148/master
+    
+    65
+
+[33mcommit 9757cd1771954ba78feb11a9a277e9e996885047[m
+Merge: ec1976d cc74c97
+Author: s40723115 <43262275+s40723115@users.noreply.github.com>
+Date:   Fri Dec 6 04:20:57 2019 +0800
+
+    Merge pull request #11 from s40723146/master
+    
+    版面更新 IV製圖影片 分組
+
+[33mcommit cc74c97fee29987dc33fb1d36514796646ed5840[m
+Author: s40723146 <40723146@gm.nfu.edu.tw>
+Date:   Fri Dec 6 04:16:49 2019 +0800
+
+    每周任務 組員 版面更新2
+
+[33mcommit e7bfa8e81d5685f8bb949e6f9bf2119322d73742[m
+Author: s40723146 <40723146@gm.nfu.edu.tw>
+Date:   Fri Dec 6 04:15:30 2019 +0800
+
+    每周任務 組員 版面更新
+
+[33mcommit 04b63e8ac374e84ff40fe6708105b5e9217bfe95[m
+Author: s40723146 <40723146@gm.nfu.edu.tw>
+Date:   Fri Dec 6 04:04:07 2019 +0800
+
+    簡報更新 影片上傳2
+
+[33mcommit 77ac49e49ab050f53ccd49609c4a5427156b5934[m
+Author: s40723146 <40723146@gm.nfu.edu.tw>
+Date:   Fri Dec 6 04:00:07 2019 +0800
+
+    簡報更新 IV影片上傳
+
+[33mcommit 7b203257df40ed05fc0e74f83c4308f0eaa6a859[m
+Merge: 523a841 ec1976d
+Author: s40723146 <43262392+s40723146@users.noreply.github.com>
+Date:   Fri Dec 6 03:15:24 2019 +0800
+
+    Merge pull request #3 from s40723148/master
+    
+    x8
+
+[33mcommit ec1976dcbc8ecba930ebdcf71029552f189fb91b[m
+Author: s40723148 <40723148@gm.nfu.edu.tw>
+Date:   Fri Dec 6 02:20:56 2019 +0800
+
+    投影片3
+
+[33mcommit 64ff62af5d30b7245cd2509fcc6fc647358abdd3[m
+Author: s40723148 <40723148@gm.nfu.edu.tw>
+Date:   Fri Dec 6 02:17:24 2019 +0800
+
+    投影片2
+
+[33mcommit f8ffa36223bcf4bb3865052c6f210fb71e9a5495[m
+Author: s40723148 <40723148@gm.nfu.edu.tw>
+Date:   Fri Dec 6 02:15:07 2019 +0800
+
+    投影片
+
+[33mcommit b21ac7d03aa2808882f40f743003a0da868d0677[m
+Merge: 89740af 817a4d9
+Author: s40723148 <43262293+s40723148@users.noreply.github.com>
+Date:   Thu Dec 5 22:56:17 2019 +0800
+
+    Merge pull request #10 from s40723110/master
+    
+    soliworks
+
+[33mcommit 817a4d96ff663b8f16cb72185b122543aa827907[m
+Author: s40723110 <40723110@gm.nfu.edu.tw>
+Date:   Thu Dec 5 22:42:52 2019 +0800
+
+    1205
+
+[33mcommit 523a8416d72625b2dbf0b69b89b82bcdad64382f[m
+Merge: 6a82456 89740af
+Author: s40723146 <43262392+s40723146@users.noreply.github.com>
+Date:   Thu Dec 5 21:43:43 2019 +0800
+
+    Merge pull request #2 from s40723148/master
+    
+    拉更新 12/5
+
+[33mcommit 89740af40dd3bd798dd526083b83136ee02d88a9[m
+Merge: d5ed8a2 c9d5301
+Author: s40723115 <43262275+s40723115@users.noreply.github.com>
+Date:   Thu Dec 5 21:42:00 2019 +0800
+
+    Merge pull request #9 from s40723148/revert-8-master
+    
+    Revert "Merge pull request #1 from s40723148/master"
+
+[33mcommit c9d53010df6bdde606b5759a5a763ee541eb9cfd[m
+Author: s40723115 <43262275+s40723115@users.noreply.github.com>
+Date:   Thu Dec 5 21:39:44 2019 +0800
+
+    Revert "Merge pull request #1 from s40723148/master"
+
+[33mcommit d5ed8a256bd936b4407f2779106593652cb88e6e[m
+Merge: a0779cc 6a82456
+Author: s40723115 <43262275+s40723115@users.noreply.github.com>
+Date:   Thu Dec 5 21:37:30 2019 +0800
+
+    Merge pull request #8 from s40723146/master
+    
+    Merge pull request #1 from s40723148/master
+
+[33mcommit 0026265ff235e0a5a5512341db9093d168fac724[m
+Merge: 01987fe a0779cc
+Author: s40723110 <43262256+s40723110@users.noreply.github.com>
+Date:   Sun Dec 1 19:22:50 2019 +0800
+
+    Merge pull request #3 from s40723148/master
+    
+    12010722
+
+[33mcommit ef3ce840004b44b8823dddb02e1cb92959dbc05f[m
+Merge: ed8d351 a0779cc
+Author: s40723112 <43262247+s40723112@users.noreply.github.com>
+Date:   Fri Nov 29 11:21:06 2019 +0800
+
+    Merge pull request #3 from s40723148/master
+    
+    123
+
+[33mcommit a0779cca78babdaa795664870a51b3040046866c[m
+Merge: cb28973 a55f1f4
+Author: s40723115 <43262275+s40723115@users.noreply.github.com>
+Date:   Fri Nov 29 11:19:17 2019 +0800
+
+    Merge pull request #7 from s40723115/master
+    
+    20191129-1
+
+[33mcommit a55f1f4e259b7b81b445399fc24c258eb7b7a8f2[m
+Author: s40723115 <40723115gmail.com>
+Date:   Fri Nov 29 11:18:20 2019 +0800
+
+    20191129-1
+
+[33mcommit 01987fe9e23a4a12f46c4b0c058e9e0381a0242a[m
+Merge: 67ef5a0 cb28973
+Author: s40723110 <43262256+s40723110@users.noreply.github.com>
+Date:   Fri Nov 29 11:06:05 2019 +0800
+
+    Merge pull request #2 from s40723148/master
+    
+    更新網頁
+
+[33mcommit ed8d351a9272c48f312519327642bb623168815d[m
+Merge: bd31f3e cb28973
+Author: s40723112 <43262247+s40723112@users.noreply.github.com>
+Date:   Fri Nov 29 11:05:14 2019 +0800
+
+    Merge pull request #2 from s40723148/master
+    
+    更新網頁
+
+[33mcommit cb28973f07047a5dd426ccd3e24e93afa8f48a8e[m
+Merge: 635206a 79a2138
+Author: s40723115 <43262275+s40723115@users.noreply.github.com>
+Date:   Fri Nov 29 11:04:16 2019 +0800
+
+    Merge pull request #6 from s40723115/master
+    
+    更新網頁
